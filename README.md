@@ -26,7 +26,18 @@
 <img src="https://www.softorks.com/Images/css.jpg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://cpng.pikpng.com/pngl/s/382-3820543_javascript-web-designing-logo-png-clipart.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://f0.pngfuel.com/png/477/472/node-js-javascript-react-logo-express-js-javascript-logo-png-clip-art-thumbnail.png" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+###  🔥 My Status :
+<!-- <div>
+[http://github-readme-streak-stats.herokuapp.com?user=abhimanyukv2&theme=dark&background=000000](https://git.io/streak-stats)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyukv2&layout=compact&theme=vision-friendly-dark)](https://github.com/abhimanyukv2/github-readme-stats) -->
 <!---
 abhimanyukv2/abhimanyukv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
