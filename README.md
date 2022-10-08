@@ -35,9 +35,9 @@
 ###  🔥 My Status :
 <!-- <div>
 [http://github-readme-streak-stats.herokuapp.com?user=abhimanyukv2&theme=dark&background=000000](https://git.io/streak-stats)
-</div>
+</div>-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyukv2&layout=compact&theme=vision-friendly-dark)](https://github.com/abhimanyukv2/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyukv2&layout=compact&theme=vision-friendly-dark)](https://github.com/abhimanyukv2/github-readme-stats) 
 <!---
 abhimanyukv2/abhimanyukv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
