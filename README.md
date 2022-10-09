@@ -19,6 +19,8 @@
 
 ---
 
+[![Abhimanyu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhimanyukv2&theme=xcode)](https://github.com/thepranaygupta)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,12 +34,26 @@
 
 ---
 
-###  🔥 My Status :
-<!-- <div>
+<!--- ###  🔥 My Status :
+<div>
 [http://github-readme-streak-stats.herokuapp.com?user=abhimanyukv2&theme=dark&background=000000](https://git.io/streak-stats)
-</div>-->
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyukv2&layout=compact&theme=vision-friendly-dark)](https://github.com/abhimanyukv2/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyukv2&layout=compact&theme=vision-friendly-dark)](https://github.com/abhimanyukv2/github-readme-stats) --->
+
+## 📈 Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=abhimanyukv2&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thepranaygupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyukv2&theme=tokyonight" />
+</p>
 <!---
 abhimanyukv2/abhimanyukv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
