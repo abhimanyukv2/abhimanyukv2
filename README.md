@@ -8,7 +8,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="LinkedIn Badge" />
         </a>
-        <a href="https://abhimanyukv2.github.io/protfolio/" target="_blank"> My Protfolio </a>
+        <a href="https://abhimanyukv2.github.io/portfolio/" target="_blank">  My Protfolio </a>
     </div>
 
 ---
@@ -19,8 +19,11 @@
 - In my free time, I solve problems on GeeksforGeeks, LeetCode and Codechef.
 
 ---
+<div>
+<figure><embed src="https://wakatime.com/share/@abhimanyukv2/3161c084-d5d8-485a-84a2-a718ed77cac9.svg"></embed></figure>
+</div
 
-[![Abhimanyu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhimanyukv2&theme=xcode)](https://github.com/thepranaygupta)
+<!--- [![Abhimanyu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhimanyukv2&theme=xcode)](https://github.com/abhimanykv2) --->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
