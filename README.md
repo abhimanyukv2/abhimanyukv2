@@ -23,6 +23,9 @@
 <figure><embed src="https://wakatime.com/share/@abhimanyukv2/3161c084-d5d8-485a-84a2-a718ed77cac9.svg"></embed></figure>
 </div
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--- [![Abhimanyu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhimanyukv2&theme=xcode)](https://github.com/abhimanykv2) --->
 
 ### :hammer_and_wrench: Languages and Tools :
